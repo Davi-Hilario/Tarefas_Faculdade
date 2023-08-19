@@ -1,0 +1,29 @@
+.bloco{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.bloco1{
+    background-color: cyan;
+}
+.bloco2{
+    background-color: rgb(10, 10, 39);
+    color: white;
+}
+.bloco3{
+    background-color: red;
+}
+.bloco4{
+    background-color: yellow;
+}
+.container-desafio{
+    background-color: rgb(194, 192, 189);
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    height: 100px;
+}
