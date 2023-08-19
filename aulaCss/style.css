@@ -1,0 +1,25 @@
+.pai {
+    background-color: rgb(181, 181, 248);
+    height: 50%;
+    width: 50%;
+    border: solid black 2px;
+    margin: 10px;
+}
+
+.filho,
+img {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(129, 129, 173);
+    border-radius: 50%;
+}
+
+.titulo {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.span {
+    color: rgb(129, 129, 173);
+    font-size: 50px;
+}
